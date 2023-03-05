@@ -1,7 +1,5 @@
 //STUDENT NAME: Kei Wai Tsui
 //Student id:300361374
-//CSIS1280 AS2
-//This is the JS file file for CSIS1280AS2
 
 //ref texts, buttons, select list and constant
 let addMember = document.getElementsByTagName("input")[0];
