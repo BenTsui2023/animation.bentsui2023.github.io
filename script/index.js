@@ -1,5 +1,4 @@
 //STUDENT NAME: Kei Wai Tsui
-//Student id:300361374
 
 //ref texts, buttons, select list and constant
 let addMember = document.getElementsByTagName("input")[0];
